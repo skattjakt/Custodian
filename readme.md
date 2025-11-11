@@ -1,1 +1,1 @@
-# Smart contract for OTC between any erc20 tokens
+# Protype for OTC system between any ERC20 token
