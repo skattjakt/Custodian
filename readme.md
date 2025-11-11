@@ -1,1 +1,1 @@
-# Prototype for OTC system between any ERC20 token
+# Simple prototype for OTC system between any ERC20 token
